@@ -19,7 +19,8 @@ To complete the assignment, please do the following:
 I want you to write somthing game name. 
 
 # List of Game
-1.Getting Over It with Bennett Foddy
+1. League of Legends
+1. Getting Over It with Bennett Foddy
 1. Fate/Grand Order
 1.
 1.
