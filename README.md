@@ -1,6 +1,15 @@
+<<<<<<< HEAD
+# What is this?
+=======
 # Attracting Contributors-Game
+>>>>>>> 2378f968b6d6451335598d3c3d4f5704218a2da9
 As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
+I want to know which programming languege is popular in NAIST, so please tell me it freely using Pull Request :)
 
+<<<<<<< HEAD
+# List of programming language
+verilog
+=======
 # Rules
 
 1. Please choose a hobby or some interest that you want to build your repository
@@ -20,6 +29,7 @@ I want you to write somthing game name.
 
 # List of Game
 1.
+1. Fate/Grand Order
 1.
 1.
 1.
@@ -28,4 +38,4 @@ I want you to write somthing game name.
 1.
 1.
 1.
-1.
+>>>>>>> 2378f968b6d6451335598d3c3d4f5704218a2da9
