@@ -1,8 +1,8 @@
 # Attracting Contributors-Game
 As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
+I want to know which programming languege is popular in NAIST, so please tell me it freely using Pull Request :)
 
 # Rules
-
 1. Please choose a hobby or some interest that you want to build your repository
 2. Make a README to announce this theme (i.e., my favourite video games or anime)
 3. Attract - Go to https://github.com/NAIST-SE/AttractingContributors/discussions, post an interesting message to ask other members to add a list. See example below.
@@ -20,6 +20,7 @@ I want you to write somthing game name.
 
 # List of Game
 1.Getting Over It with Bennett Foddy
+1. Fate/Grand Order
 1.
 1.
 1.
@@ -28,4 +29,4 @@ I want you to write somthing game name.
 1.
 1.
 1.
-1.
+
