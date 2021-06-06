@@ -21,10 +21,11 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Hobby
-1.1 Valorant
-1.2 gennsin
-1.3 Minecraft
-1.4 Alliance of Valiant Arms
-1.5 Overwatch
-1.6 LOL
-1.7 Splatoon
+1. Valorant
+2. gennsin
+3. Minecraft
+4. Alliance of Valiant Arms
+5. Overwatch
+6. LOL
+7. Splatoon
+8. Battlefield5
