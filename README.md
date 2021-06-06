@@ -31,4 +31,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 7. Splatoon
 8. Battlefield5
 9. MahjongSoul
+10. Atsumori
 
