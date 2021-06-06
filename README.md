@@ -22,7 +22,7 @@ I want you to write somthing game name.
 1. League of Legends
 1. Getting Over It with Bennett Foddy
 1. Fate/Grand Order
-1.
+1. VALORANT
 1.
 1.
 1.
