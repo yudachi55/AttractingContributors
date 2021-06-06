@@ -27,3 +27,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 1.4 Alliance of Valiant Arms
 1.5 Overwatch
 1.6 LOL
+1.7 Splatoon
