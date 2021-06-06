@@ -23,6 +23,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # List of Hobby
 1.1 Valorant
 1.2 gennsin
-1.3 Getting Over It with Bennett Foddy
-1.4 Minecraft
-
+1.3 Minecraft
+1.4 Alliance of Valiant Arms
