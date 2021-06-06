@@ -21,6 +21,7 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Hobby
+
 1. Valorant
 2. gennsin
 3. Minecraft
@@ -29,3 +30,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 6. LOL
 7. Splatoon
 8. Battlefield5
+9. MahjongSoul
+
