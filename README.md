@@ -28,3 +28,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 1.5 Overwatch
 1.6 LOL
 1.7 Splatoon
+1.8 MahjongSoul
