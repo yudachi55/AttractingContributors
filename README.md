@@ -21,3 +21,6 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Hobby
+Dasiuke Aoki's favorite hobby is video game
+1.1 Valorant
+1.2 gennsin
