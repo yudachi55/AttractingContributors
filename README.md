@@ -23,3 +23,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # List of Hobby
 1.1 Valorant
 1.2 gennsin
+1.3 Minecraft
