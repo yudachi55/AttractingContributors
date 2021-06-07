@@ -34,4 +34,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 10. Atsumori
 11. APEX Legends
 12. Kaseki Holider
+13. Tetris
 
