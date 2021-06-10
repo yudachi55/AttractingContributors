@@ -1,4 +1,4 @@
-# Attracting Contributors
+# Attracting Contributors-video games
 As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
 
 # Rules
@@ -15,8 +15,26 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# My project
-Goal: I want to know the first games you played in your life and make a list.
+# Example. 
+https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
-# List of the first games you played in your life
-- 
+https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+
+# List of video games
+
+1. Valorant
+2. gensin
+3. Minecraft
+4. Alliance of Valiant Arms
+5. Overwatch
+6. LOL
+7. Splatoon
+8. Battlefield5
+9. MahjongSoul
+10. Atsumori
+11. APEX Legends
+12. Kaseki Holider
+13. Tetris
+14. final fantasy X
+15. SEKIRO
+16. Danganronpa
