@@ -23,7 +23,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # List of video games
 
 1. Valorant
-2. gennsin
+2. gensin
 3. Minecraft
 4. Alliance of Valiant Arms
 5. Overwatch
@@ -36,4 +36,6 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 12. Kaseki Holider
 13. Tetris
 14. final fantasy X
+15. SEKIRO
+
 
