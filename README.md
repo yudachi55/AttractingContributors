@@ -38,4 +38,6 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 14. final fantasy X
 15. SEKIRO
 16. Biohazard 2: Remake
+17. Danganronpa
+
 
