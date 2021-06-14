@@ -39,6 +39,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 15. SEKIRO
 16. Biohazard 2: Remake
 17. Danganronpa
-18. DQ9
-
-
+18. Granturismo
+19. DQ9
