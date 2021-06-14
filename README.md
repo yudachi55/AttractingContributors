@@ -24,4 +24,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 1. Sushi
 2. beef steak
-
+3. meet
