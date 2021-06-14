@@ -28,3 +28,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 2. beef steak
 3. meet
 4. beef steak
+5. Fied Chicken
