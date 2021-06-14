@@ -41,4 +41,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 17. Danganronpa
 18. Granturismo
 19. DQ9
-20. Mario 64
+20. pokemon
+21. Mario 64
