@@ -23,3 +23,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # List of Hobby
 - beef steak
 - Manga
+
+
+1. Sushi
+2. beef steak
