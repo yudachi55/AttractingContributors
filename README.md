@@ -24,3 +24,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 I want contributors to help me list some favorite F1 drivers!!
 
 # List of Hobby
+1. Yuki Tsunoda
